@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "category": "meet pancake",
+      "description": "pancake with meat",
+      "img": "http://blini.com/src/image1.jpg",
+      "product": [
+        {
+          "name": "Блин Бургер",
+          "description": "Сочная котлета гриль с ломтиками расплавленого сыра моцарелла",
+          "price": "139",
+          "img": [
+            {
+              "item1": "http://blini.com/src/image4.jpg",
+              "item2": "http://blini.com/src/image5.jpg",
+              "item3": "http://blini.com/src/image6.jpg",
+              "item4": "http://blini.com/src/image7.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "pancake sweet",
+      "description": "yummy",
+      "img": "http://blini.com/src/image2.jpg",
+      "product": [
+        {
+          "name": "Блин со сгущёнкой",
+          "description": "Простой и по-домашнему вкусный блин со сгущённым молоком",
+          "price": "79",
+          "img": [
+            {
+              "item1": "http://blini.com/src/image8.jpg",
+              "item2": "http://blini.com/src/image9.jpg",
+              "item3": "http://blini.com/src/image10.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "vegan pancake",
+      "description": "vegan pancake with vegetable",
+      "img": "http://blini.com/src/image3.jpg",
+      "product": [
+        {
+          "name": "Блин с капустой",
+          "description": "Просто.Вкусно.По-домашнему.",
+          "price": "85",
+          "img": [
+            {
+              "item1": "http://blini.com/src/image11.jpg",
+              "item2": "http://blini.com/src/image12.jpg",
+              "item3": "http://blini.com/src/image13.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
